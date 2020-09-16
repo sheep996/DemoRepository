@@ -1,0 +1,3 @@
+print(123)
+ git config --global user.email "2500251836@qq.com"
+ git config --global user.name "暖阳"
